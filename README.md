@@ -1,6 +1,7 @@
-# Welcome to your CDK JavaScript project
+This is my AWS CDK project to deploy AWS Lambda function (a simple example of a lambda function).
 
-This is a blank project for CDK development with JavaScript.
+Checkout the function code here:
+- ./lambda
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app. The build step is not required when using JavaScript.
 
